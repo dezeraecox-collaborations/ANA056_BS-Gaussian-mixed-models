@@ -1,28 +1,3 @@
-# Analysis ###: Title
-
-**Purpose**: 
-
-
-**Data produced:** 
-
-
-**Analysis methods:** 
-
-
-## Experiment index
-
-**Experiment #:**
-
-**Experiment #:**
-
-**Experiment #:**
-
-## Resources & References
-
-Certainly! Here's a concise and informative blurb for your README:
-
----
-
 # Gaussian Mixture Model Simulation and Fitting
 
 This Python script simulates a dataset composed of multiple Gaussian distributions, and then fits a Gaussian Mixture Model (GMM) to the simulated data. The process includes visualizing the simulated data and the fitted GMM components for clear, intuitive understanding.
