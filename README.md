@@ -35,9 +35,3 @@ This Python script simulates a dataset composed of multiple Gaussian distributio
 
 1. **Run the script**: Execute the script to generate the simulated dataset, fit the GMM, and visualize the results.
 2. **View the Visualizations**: Observe the initial histogram of the simulated data, and the final plot showing the GMM fit with individual Gaussian components.
-
-This script is a useful tool for students and data scientists to understand the process of generating and fitting Gaussian Mixture Models, as well as visualizing the underlying distributions and the fitting process.
-
----
-
-Feel free to adjust any details as per your preference!
